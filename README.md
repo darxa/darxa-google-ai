@@ -29,16 +29,19 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 ## 🌌
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/attention.png"><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/dark.jpg"><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/superres.jpg"><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/thermal2.jpg"><a> </a>
+
 <b>Tasks achieved</b>:
 - [Image] Object Detection and Localization [Animals] [README]()
 - [Video] Object Detection and Localization [Animals] [README]()
 - [Realtime] Object Detection and Localization [Animals] [README]()
 
-<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc. Also more indepth research on detecting  objects in IR vs Nightvision vs Thermal imaging is required.</p>
+<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis of collecting good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
 
 <b>Tasks todo</b>:
 - SuperResolution in TRACKODS [README]()
-- Tracking with OpenCV [README]()
+- Tracking using attention in Deep Learning [README]()
+- See in the Dark (NightSight) [README]()
 
 ## 🌌
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
@@ -78,5 +81,6 @@ Needs improvement ~
 - See through walls using - Wi-Vi [README]()
 - Satellite Imagery analysis of a region [README]()
 - Autonomous flight via coordinates path planning (Using sensor data - wind speed, weather etc) [README]()
+- Simulation of Phoenix-T in the 3D-MAP using Reinforcement Learning [README]()
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px>
