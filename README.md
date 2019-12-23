@@ -26,7 +26,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 
 ## HIGHLIGHT - AI FEATURES:
 
-
+## 🌌
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
 <b>Tasks achieved</b>:
@@ -40,6 +40,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 - SuperResolution in TRACKODS [README]()
 - Tracking with OpenCV [README]()
 
+## 🌌
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
 
 <b>Tasks achieved</b>:
@@ -50,7 +51,7 @@ Needs improvement ~
 <b>Tasks todo</b>:
 
 
-## 🔅
+## 🌌
 > 🎄 PREDICTIVE ANALYSIS WITH VIZUALIZATIONS
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/pgm.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/heat.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/data.png" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/event.gif" height=130px>
@@ -62,7 +63,7 @@ Needs improvement ~
 - Classical Machine Learning approach on real world dataset (Use of past data)
 - Probabilistic Graphical Models for Inference (Intelligence source)
 
-## 🔅
+## 🌌
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/pc.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/satellite.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/wifi.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/auto.PNG" height=130px>
