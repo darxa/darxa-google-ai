@@ -1,5 +1,5 @@
 # D.A.R.X.A | Track.Locate.Secure
-<b>Deep Autonomous Reconnaissance and eXploration Assistance</b>
+<b>D</b>eep <b>A</b>utonomous <b>R</b>econnaissance and e<b>X</b>ploration <b>A</b>ssistance</b>
 
 
 
