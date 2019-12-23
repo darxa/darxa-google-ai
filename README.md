@@ -22,27 +22,28 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 <b>SOFTWARE NEED</b> Analysis:
 
 
-Highlights - AI features:
+<hr />
+<b>Highlights - AI features</b>:
 
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
-Tasks achieved:
+<b>Tasks achieved</b>:
 - [Image] Object Detection and Localization [Animals] [README]()
 - [Video] Object Detection and Localization [Animals] [README]()
 - [Realtime] Object Detection and Localization [Animals] [README]()
 
 <p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc. Also more indepth research on detecting  objects in IR vs Nightvision vs Thermal imaging is required.</p>
 
-Tasks todo:
+<b>Tasks todo</b>:
 - SuperResolution in TRACKODS [README]()
 - Tracking with OpenCV [README]()
 
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
 
-Tasks achieved:
+<b>Tasks achieved</b>:
 
 
-Tasks todo:
+<b>Tasks todo</b>:
 
 > 🎄 PREDICTIVE ANALYSIS WITH VIZUALIZATIONS
 
