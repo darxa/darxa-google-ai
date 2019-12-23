@@ -39,7 +39,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 <p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis on collecting a good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
 
 <b>Tasks todo</b>:
-- SuperResolution in TRACKODS [README]()
+- SuperResolution using Deep Learning in TRACKODS [README]()
 - Tracking using attention in Deep Learning [README]()
 - See in the Dark (NightSight) [README]()
 
