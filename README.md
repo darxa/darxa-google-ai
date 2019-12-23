@@ -27,9 +27,13 @@ Highlights - AI features:
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
 Tasks achieved:
-
+- [Image]Object Detection and Localization [Animals] [README]()
+- [Video]Object Detection and Localization [Animals] [README]()
+- [Realtime]Object Detection and Localization [Animals] [README]()
 
 Tasks todo:
+- SuperResolution [README]()
+- Tracking with OpenCV [README]()
 
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
 
@@ -45,5 +49,12 @@ Tasks achieved:
 
 Tasks todo:
 
+> 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
+
+Tasks achieved:
+
+
+Tasks todo:
+- [Wi-Vi - See through Walls](https://people.csail.mit.edu/fadel/wivi/)
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px>
