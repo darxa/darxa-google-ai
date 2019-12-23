@@ -11,11 +11,11 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 
 > Discussions with Government of Assam with possibility to implement in Kaziranga National Park.
 
-This project includes Hardware as well as Software stack for end-to-end implementation. The work done at Smart India Hackathon was a 
+<p align=justify>This project includes Hardware as well as Software stack for end-to-end implementation. The work done at Smart India Hackathon was a </p>
 
 ### Google AI Explore ML Mentorship Bootcamp
 
-<p align=justify>This project is selected for Google AI Explore ML Mentorship Bootcamp and further developments of the AI and ML algorithms will be done under <a href="https://www.linkedin.com/in/akshaybahadur21/">Akshay Bahadur</a> and <a href="https://www.linkedin.com/in/nikita-gandhi01/">Nikita Gandhi</a>. Expert suggestion and advice on the growth of the project for securing national parks, military installments and other confidential area is of prime importance. The project is of large scale and needs time for it's growth and real world implementation.</p>
+<p align=justify>This project is selected for Google AI Explore ML Mentorship Bootcamp and further developments of the AI and ML algorithms will be done under <a href="https://www.linkedin.com/in/akshaybahadur21/">Akshay Bahadur</a> and <a href="https://www.linkedin.com/in/nikita-gandhi01/">Nikita Gandhi</a>. Expert suggestions and advices on the growth of the project for securing national parks, military installments and other confidential area as per the synopsis is of prime importance. The project is of large scale and needs time for it's growth and real world implementation.</p>
 
 <p align=justify>Primary Focus of the project's growth in the bootcamp is with the development of AI Algorithms and making a robust software stack. The Hardware needs of the project will be worked upon over time.</p>
 
