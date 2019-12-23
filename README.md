@@ -57,11 +57,11 @@ Needs improvement ~
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/pgm.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/heat.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/data.png" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/event.gif" height=130px>
 
 <b>Tasks achieved</b>:
-- Poaching prediction [Dummy Dataset]
+- Poaching prediction [Dummy Dataset] [README]()
 
 <b>Tasks todo</b>:
-- Classical Machine Learning approach on real world dataset (Use of past data)
-- Probabilistic Graphical Models for Inference (Intelligence source)
+- Classical Machine Learning approach on real world dataset (Use of past data) [README]()
+- Probabilistic Graphical Models for Inference (Intelligence source) [README]()
 
 ## 🌌
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
