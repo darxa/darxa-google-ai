@@ -66,7 +66,8 @@ Tasks todo:
 - 3D Mapping of area with Point Cloud (Need suggestion on the best way to 3D Map an area) [README]()
 - Realtime GPS location of rangers on the 3D-MAP (Application to Visualize) [README]()
 - Shortest path between 2 GPS locations ( just like used in Uber/Lyft/Ola) [README]()
-- [See through walls using - Wi-Vi](https://people.csail.mit.edu/fadel/wivi/) [README]()
-- Autonomous flight reaching coordinates (Using sensor data - wind speed, weather etc)
+- See through walls using - Wi-Vi [README]()
+- DSTL Satellite Imagery Analysis of a region [README]()
+- Autonomous flight reaching coordinates (Using sensor data - wind speed, weather etc) [README]()
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px>
