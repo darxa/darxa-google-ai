@@ -1,4 +1,5 @@
-# darxa-google-ai
+# D.A.R.X.A | Deep Autonomous Reconnaissance and eXploration Assistance 
+
 
 
 
