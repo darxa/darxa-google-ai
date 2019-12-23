@@ -23,7 +23,8 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 
 
 <hr />
-<b>Highlights - AI features</b>:
+## HIGHLIGHT - AI FEATURES:
+
 
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
