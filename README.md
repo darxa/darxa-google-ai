@@ -27,12 +27,13 @@ Highlights - AI features:
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
 Tasks achieved:
-- [Image]Object Detection and Localization [Animals] [README]()
-- [Video]Object Detection and Localization [Animals] [README]()
-- [Realtime]Object Detection and Localization [Animals] [README]()
+- [Image] Object Detection and Localization [Animals] [README]()
+- [Video] Object Detection and Localization [Animals] [README]()
+- [Realtime] Object Detection and Localization [Animals] [README]()
+We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc. Also more indepth research on detecting  objects in IR vs Nightvision vs Thermal imaging is required.
 
 Tasks todo:
-- SuperResolution [README]()
+- SuperResolution in TRACKODS [README]()
 - Tracking with OpenCV [README]()
 
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
