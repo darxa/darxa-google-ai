@@ -30,7 +30,8 @@ Tasks achieved:
 - [Image] Object Detection and Localization [Animals] [README]()
 - [Video] Object Detection and Localization [Animals] [README]()
 - [Realtime] Object Detection and Localization [Animals] [README]()
-We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc. Also more indepth research on detecting  objects in IR vs Nightvision vs Thermal imaging is required.
+
+<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc. Also more indepth research on detecting  objects in IR vs Nightvision vs Thermal imaging is required.</p>
 
 Tasks todo:
 - SuperResolution in TRACKODS [README]()
