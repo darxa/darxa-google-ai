@@ -59,8 +59,10 @@ Tasks todo:
 
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
 
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/pc.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/satellite.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/wifi.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/auto.PNG" height=70px>
+
 Tasks achieved:
-- NaN
+- N/A
 
 Tasks todo:
 - 3D Mapping of area with Point Cloud (Need suggestion on the best way to 3D Map an area) [README]()
