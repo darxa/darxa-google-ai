@@ -15,9 +15,9 @@ This project includes Hardware as well as Software stack for end-to-end implemen
 
 ### Google AI Explore ML Mentorship Bootcamp
 
-This project is selected for Google AI Explore ML Mentorship Bootcamp and further developments of the AI and ML algorithms will be done under [Akshay Bahadur](https://www.linkedin.com/in/akshaybahadur21/) and [Nikita Gandhi](https://www.linkedin.com/in/nikita-gandhi01/). Expert suggestion and advice on the growth of the project for securing national parks, military installments and other confidential area is of prime importance. The project is of large scale and needs time for it's growth and real world implementation.
+<p align=justify>This project is selected for Google AI Explore ML Mentorship Bootcamp and further developments of the AI and ML algorithms will be done under [Akshay Bahadur](https://www.linkedin.com/in/akshaybahadur21/) and [Nikita Gandhi](https://www.linkedin.com/in/nikita-gandhi01/). Expert suggestion and advice on the growth of the project for securing national parks, military installments and other confidential area is of prime importance. The project is of large scale and needs time for it's growth and real world implementation.</p>
 
-Primary Focus of the project's growth in the bootcamp is with the development of AI Algorithms and making a robust software stack. The Hardware needs of the project will be worked upon over time.
+<p align=justify>Primary Focus of the project's growth in the bootcamp is with the development of AI Algorithms and making a robust software stack. The Hardware needs of the project will be worked upon over time.</p>
 
 <b>SOFTWARE NEED</b> Analysis:
 
