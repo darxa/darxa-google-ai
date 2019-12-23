@@ -8,6 +8,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 ### Status and Achievement of the work until December 2019
 
 > Smart India Hackathon 2018 : KPIT Innovation Award Winner
+
 > Discussions with Government of Assam with possibility to implement in Kaziranga National Park.
 
 This project includes Hardware as well as Software stack for end-to-end implementation. The work done at Smart India Hackathon was a 
