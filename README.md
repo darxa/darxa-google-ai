@@ -36,7 +36,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 - [Video] Object Detection and Localization [Animals] [README]()
 - [Realtime] Object Detection and Localization [Animals] [README]()
 
-<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis of collecting good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
+<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis on collecting a good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
 
 <b>Tasks todo</b>:
 - SuperResolution in TRACKODS [README]()
