@@ -49,18 +49,20 @@ Needs improvement ~
 
 <b>Tasks todo</b>:
 
+
+## 🔅
 > 🎄 PREDICTIVE ANALYSIS WITH VIZUALIZATIONS
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/pgm.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/heat.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/data.png" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/event.gif" height=130px>
 
-Tasks achieved:
+<b>Tasks achieved</b>:
 - Poaching prediction [Dummy Dataset]
 
-Tasks todo:
+<b>Tasks todo</b>:
 - Classical Machine Learning approach on real world dataset (Use of past data)
 - Probabilistic Graphical Models for Inference (Intelligence source)
 
-
+## 🔅
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/pc.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/satellite.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/wifi.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/auto.PNG" height=130px>
