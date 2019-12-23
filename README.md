@@ -1,10 +1,22 @@
 # D.A.R.X.A | Track.Locate.Secure
 <b>D</b>eep <b>A</b>utonomous <b>R</b>econnaissance and e<b>X</b>ploration <b>A</b>ssistance</b>
 
-<p align="justify">The rate of cross border trespassing/poaching and other illegal activities has increased excessively in recent years. We have learnt our lessons from past sad-and-deadly incidents like Pathankot terror attack which shook the whole world, and was a result of lack of security across the border areas. Our scalable and state of the art end-to-end solution helps secure a region. We take it as a game, where the AI assistant constantly tracks, locates anomalies and secures a region.</p>Our mission can be read at [DARXA-Mission](http://www.darxa.in/mission.html).
+<p align="justify">The rate of cross border trespassing/poaching and other illegal activities has increased excessively in recent years. We have learnt our lessons from past sad-and-deadly incidents like Pathankot terror attack which shook the whole world, and was a result of lack of security across the border areas. Our scalable and state of the art end-to-end solution helps secure a region. We take it as a game, where the AI assistant constantly tracks, locates anomalies and secures a region.</p>
+
+Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa.in/mission.html).
+
+### Status and Achievement of the work until December 2019
+
+> Smart India Hackathon 2018 : KPIT Innovation Award Winner
+> Discussions with Government of Assam with possibility to implement in Kaziranga National Park.
+
+This project includes Hardware as well as Software stack for end-to-end implementation. The work done at Smart India Hackathon was a 
 
 ### Google AI Explore ML Mentorship Bootcamp
-This repository holds 
+
+This project is selected for Google AI Explore ML Mentorship Bootcamp and further developments on the AI algorithms will be done under [Akshay Bahadur](https://www.linkedin.com/in/akshaybahadur21/) and [Nikita Gandhi](https://www.linkedin.com/in/nikita-gandhi01/).
+
+This repository holds all the work done 
 
 
 Highlights - AI features:
