@@ -1,5 +1,5 @@
 # D.A.R.X.A | Track.Locate.Secure
-## Deep Autonomous Reconnaissance and eXploration Assistance 
+<b>Deep Autonomous Reconnaissance and eXploration Assistance</b>
 
 
 
