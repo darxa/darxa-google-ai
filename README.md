@@ -29,7 +29,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 ## 🌌
 > 🎄 STATE OF THE ART OBJECT DETECTION AND LOCALIZATION
 
-<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/attention.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/dark.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/superres.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/thermal2.jpg" height=150px><a> </a>
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/attention.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/dark.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/superres.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/thermal2.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/detect.png" height=150px>
 
 <b>Tasks achieved</b>:
 - [Image] Object Detection and Localization [Animals] [README]()
