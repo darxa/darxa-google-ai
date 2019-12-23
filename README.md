@@ -74,7 +74,7 @@ Needs improvement ~
 <b>Tasks todo</b>:
 - 3D Mapping of an area with Point Cloud (Need suggestion on the best way to 3D Map an area) [README]()
 - Realtime GPS location of rangers on the 3D-MAP (Application to Visualize) [README]()
-- Shortest path between 2 GPS locations in the 3D-MAP ( just like used in Uber/Lyft/Ola) [README]()
+- Shortest path between 2 GPS locations in the 3D-MAP (as used in Uber/Lyft/Ola) [README]()
 - See through walls using - Wi-Vi [README]()
 - Satellite Imagery analysis of a region [README]()
 - Autonomous flight via coordinates path planning (Using sensor data - wind speed, weather etc) [README]()
