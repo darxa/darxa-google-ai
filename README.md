@@ -59,7 +59,7 @@ Tasks todo:
 
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
 
-<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/pc.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/satellite.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/wifi.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/auto.PNG" height=150px>
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/pc.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/satellite.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/wifi.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sensor_fuse/auto.PNG" height=130px>
 
 Tasks achieved:
 - N/A
