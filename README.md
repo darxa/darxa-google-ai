@@ -55,6 +55,7 @@ Tasks achieved:
 - Poaching prediction
 
 Tasks todo:
+- PGM
 
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
 
@@ -62,7 +63,9 @@ Tasks achieved:
 - NaN
 
 Tasks todo:
-- 3D Mapping with point cloud
-- [Wi-Vi - See through Walls](https://people.csail.mit.edu/fadel/wivi/)
+- 3D Mapping of area with Point Cloud (Relatively New ~ Need suggestion on the best way to 3D Map an area) []()
+- Realtime GPS location of rangers on the 3D-MAP (Application to Visualize) []()
+- Shortest path between 2 GPS locations ( just like used in Uber/Lyft/Ola) []()
+- [See through walls using - Wi-Vi](https://people.csail.mit.edu/fadel/wivi/) []()
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px>
