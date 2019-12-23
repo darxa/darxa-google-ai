@@ -46,4 +46,4 @@ Tasks achieved:
 Tasks todo:
 
 
-<center><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px></center>
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px>
