@@ -41,23 +41,26 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
 
 <b>Tasks achieved</b>:
+- Audio Classification with CNN
 
+Needs improvement ~
 
 <b>Tasks todo</b>:
 
 > 🎄 PREDICTIVE ANALYSIS WITH VIZUALIZATIONS
 
 Tasks achieved:
-
+- Poaching prediction
 
 Tasks todo:
 
 > 🎄 SENSOR FUSION WITH REAL TIME TRACKING IN HANDHELD
 
 Tasks achieved:
-
+- NaN
 
 Tasks todo:
+- 3D Mapping with point cloud
 - [Wi-Vi - See through Walls](https://people.csail.mit.edu/fadel/wivi/)
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/sih.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/kpit.jpg" height=70px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/glogo.png" height=70px>
