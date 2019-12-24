@@ -46,9 +46,9 @@ As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS wit
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/attention.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/dark.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/superres.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/thermal2.jpg" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/obj/detect.png" height=150px>
 
 <b>Tasks achieved</b>:
-- [Image] Object Detection and Localization [Animals] [README]()
-- [Video] Object Detection and Localization [Animals] [README]() - [Demo](https://youtu.be/sCrg1bD2Lno)
-- [Realtime] Object Detection and Localization [Animals] [README]() -[Demo](https://youtu.be/qkzmv4ny7VM)
+- [Image] Object Detection and Localization [Animals] [README](https://github.com/darxa/darxa-google-ai/blob/master/README/obj/IMGDETECT.MD)
+- [Video] Object Detection and Localization [Animals] [README](https://github.com/darxa/darxa-google-ai/blob/master/README/obj/VIDDETECT.MD) - [Demo](https://youtu.be/sCrg1bD2Lno)
+- [Realtime] Object Detection and Localization [Animals] [README](https://github.com/darxa/darxa-google-ai/blob/master/README/obj/VIDDETECT.MD) -[Demo](https://youtu.be/qkzmv4ny7VM)
 
 <p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis on collecting good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
 
@@ -63,7 +63,7 @@ As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS wit
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/voice/spectr.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/voice/lstm.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/voice/wav.png" height=150px>
 
 <b>Tasks achieved</b>:
-- Audio Classification with CNN (Need improvements) [README]()
+- Audio Classification with CNN [README](https://github.com/darxa/darxa-google-ai/blob/master/README/voice/AUDRECCNN.MD)
 
 <b>Tasks todo</b>:
 - Use of LSTM and attention for precise Audio classification [README]()
@@ -75,7 +75,7 @@ As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS wit
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/pgm.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/heat.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/data.png" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/event.gif" height=130px>
 
 <b>Tasks achieved</b>:
-- Poaching prediction [Dummy Dataset] [README]()
+- Poaching prediction [Dummy Dataset] [README](https://github.com/darxa/darxa-google-ai/blob/master/README/pred/PREDANALYSIS.MD)
 
 <b>Tasks todo</b>:
 - Classical Machine Learning approach on real world dataset (Use of past data) [README]()
