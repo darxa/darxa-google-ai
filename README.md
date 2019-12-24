@@ -50,7 +50,7 @@ As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS wit
 - [Video] Object Detection and Localization [Animals] [README]() - [Demo](https://youtu.be/sCrg1bD2Lno)
 - [Realtime] Object Detection and Localization [Animals] [README]() -[Demo](https://youtu.be/qkzmv4ny7VM)
 
-<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis on collecting a good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
+<p align="justify">We need to work on detecting every other object that might be a threat - firearms, military vehicles, drones etc by training a better dataset and using Transfer Learning. Also more emphasis on collecting good datasets and indepth research on detecting  objects in IR vs NightVision vs Thermal imaging is mandatory.</p>
 
 <b>Tasks todo</b>:
 - SuperResolution using Deep Learning in TRACKODS [README]()
