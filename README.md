@@ -29,7 +29,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 
 As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS with onboard neural compute stick, we don't need much processing capabilities in the android application. Development in the TF Lite World and Flutter will make all possibilities come true with time. For now our basic planned tech stack would be: 
 
-<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/tech_stack.png" height=200px>
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/tech_stack.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/linux.png" height=150px>
 
 - Distributed system architecture of the network of TRACKODS
 - Operating System of PHOENIX-T [linux with opensource ROS]
