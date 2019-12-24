@@ -11,7 +11,7 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 
 > 🔄 Discussions with Government of Assam with possibility to implement in Kaziranga National Park.
 
-<p align=justify>This project includes Hardware as well as Software stack for end-to-end implementation. The work done at Smart India Hackathon had some limitations and not every feature was implemented. Research on Computer Vision and other Deep Learning areas have given us new cutting edge algorithms and possibilities to work upon.  </p>
+<p align=justify>This project includes Hardware as well as Software stack for end-to-end implementation. The work done at Smart India Hackathon had some limitations and not every AI feature was implemented. Research on Computer Vision and other Deep Learning areas have given us new cutting edge algorithms and possibilities to work upon. Details on hardware, android and full stack devlopment parts of the project are not included in this repository.  </p>
 
 ### Google AI Explore ML Mentorship Bootcamp
 
