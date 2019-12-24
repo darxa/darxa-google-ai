@@ -21,19 +21,19 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 
 <b>SOFTWARE NEED</b> Analysis:
 
-- ML & DL Algorithms [TensorFlow 2.0]
+- ML & DL Algorithms [TensorFlow 2.0] (Applied Machine Learning and Deep Learning)
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/TF.png" height=100px>
 
-- Android application in the handheld device
+- Android application for the handheld device [Flutter]
 
-As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS with onboard neural compute stick, we don't need much processing capabilities in the android application. Development in the TF Lite World and Flutter will make all possible with time. For now a basic tech stack would be: 
+As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS with onboard neural compute stick, we don't need much processing capabilities in the android application. Development in the TF Lite World and Flutter will make all possibilities come true with time. For now our basic planned tech stack would be: 
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/tech_stack.png" height=200px>
 
 - Distributed system architecture of the network of TRACKODS
-- Operating System of the drone [linux with opensource ROS]
-- DARXA control center system architecture
+- Operating System of PHOENIX-T [linux with opensource ROS]
+- DARXA control center system architecture [Full Stack Development]
 
 
 <hr />
