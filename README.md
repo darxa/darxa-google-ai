@@ -46,13 +46,14 @@ Our mission and project synopsis can be read at [DARXA-Mission](http://www.darxa
 ## 🌌
 > 🎄 AUDIO FREQUENCY CLASSIFICATION WITH CNN AND RNN
 
-<b>Tasks achieved</b>:
-- Audio Classification with CNN
+<img src="https://github.com/darxa/darxa-google-ai/blob/master/img/voice/spectr.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/voice/lstm.png" height=150px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/voice/wav.png" height=150px>
 
-Needs improvement ~
+<b>Tasks achieved</b>:
+- Audio Classification with CNN (Need improvements) [README]()
 
 <b>Tasks todo</b>:
-
+- Use of LSTM and attention for precise Audio classification [README]()
+- Voice Assistance for PHOENIX-T from the control centre [README]()
 
 ## 🌌
 > 🎄 PREDICTIVE ANALYSIS WITH VIZUALIZATIONS
