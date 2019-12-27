@@ -70,7 +70,7 @@ As most of the Machine Learning Algorithms will be in PHOENIX-T and TRACKODS wit
 - Voice Assistance for PHOENIX-T from the control centre [README]()
 
 ## 🌌
-> 🎄 PREDICTIVE ANALYSIS WITH VIZUALIZATIONS
+> 🎄 PREDICTIVE ANALYSIS WITH VISUALIZATIONS
 
 <img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/pgm.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/heat.jpg" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/data.png" height=130px><a> </a><img src="https://github.com/darxa/darxa-google-ai/blob/master/img/pred/event.gif" height=130px>
 
